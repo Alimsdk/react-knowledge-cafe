@@ -1,0 +1,52 @@
+[
+    {
+        "banner_img": "https://i.ibb.co/Wk5d6X3/pexels-timmossholder-3612930-1.jpg",
+        "author_name": "Alice Johnson",
+        "author_img": "https://i.ibb.co/7x3vLRx/user-307993-1280.png",
+        "id": "1",
+        "title": "The Future of Technology: Innovations That Will Shape Our World",
+        "posted_date": "2024-06-19",
+        "reading_time": 5,
+        "hashtags": ["#technology", "#innovation", "#future"]
+    },
+    {
+        "banner_img": "https://i.ibb.co/Wk5d6X3/pexels-timmossholder-3612930-1.jpg",
+        "author_name": "Bob Smith",
+        "author_img": "https://i.ibb.co/7x3vLRx/user-307993-1280.png",
+        "id": "2",
+        "title": "Health and Wellness: Tips for a Fit Lifestyle",
+        "posted_date": "2024-06-18",
+        "reading_time": 8,
+        "hashtags": ["#health", "#wellness", "#fitness"]
+    },
+    {
+        "banner_img": "https://i.ibb.co/Wk5d6X3/pexels-timmossholder-3612930-1.jpg",
+        "author_name": "Carol Lee",
+        "author_img": "https://i.ibb.co/7x3vLRx/user-307993-1280.png",
+        "id": "3",
+        "title": "Entrepreneurship and Success in Business",
+        "posted_date": "2024-06-17",
+        "reading_time": 10,
+        "hashtags": ["#business", "#entrepreneurship", "#success"]
+    },
+    {
+        "banner_img": "https://i.ibb.co/Wk5d6X3/pexels-timmossholder-3612930-1.jpg",
+        "author_name": "David Kim",
+        "author_img": "https://i.ibb.co/7x3vLRx/user-307993-1280.png",
+        "id": "4",
+        "title": "Scientific Discoveries That Are Changing the World",
+        "posted_date": "2024-06-16",
+        "reading_time": 7,
+        "hashtags": ["#science", "#research", "#discovery"]
+    },
+    {
+        "banner_img": "https://i.ibb.co/Wk5d6X3/pexels-timmossholder-3612930-1.jpg",
+        "author_name": "Eva Martinez",
+        "author_img": "https://i.ibb.co/7x3vLRx/user-307993-1280.png",
+        "id": "5",
+        "title": "Travel Adventures: Exploring the Unseen",
+        "posted_date": "2024-06-15",
+        "reading_time": 6,
+        "hashtags": ["#travel", "#adventure", "#exploration"]
+    }
+]
