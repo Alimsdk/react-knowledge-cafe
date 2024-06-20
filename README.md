@@ -1,6 +1,8 @@
 # React + Vite
 
-TO WATCH LIVE :  react-knowledge-cafeteria.surge.sh
+TO WATCH LIVE :  
+[Live Website Link](react-knowledge-cafeteria.surge.sh)
+
 
 Currently, two official plugins are available:
 
